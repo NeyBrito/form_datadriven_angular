@@ -72,28 +72,35 @@ Precisa fazer a instalação das bibliotecas bootstrap, materialize, lodash, jqu
      - Bairro;
      - Cidade (Select - Mostra somente as cidades do estado carregado);	
      - Estado (Select);
+     
      ![Endereço](https://user-images.githubusercontent.com/35903451/142418058-4b90483d-92bd-43ca-a4fa-25021f3bbc67.png)
      ![CepValido](https://user-images.githubusercontent.com/35903451/142418099-14c4c42a-4576-49c2-ab69-9b740866d882.png)
   
 - **Cargo**(Select);
+
 ![Cargo](https://user-images.githubusercontent.com/35903451/142418142-a61d9906-c67a-40e1-a334-00ec16731f72.png)
 
 - **Tecnologias**;
+
 ![Tecnologias](https://user-images.githubusercontent.com/35903451/142418214-e921aebf-8752-4c91-a6c5-935e2bdaa4ad.png)
 
 - **Newsletter**(RadioButton);
+
 ![Newsletter](https://user-images.githubusercontent.com/35903451/142418262-ee200e18-8e81-459e-a05b-7e3f7397c526.png)
 
 - **Frameworks**(CheckBox);
+
 ![Frameworks](https://user-images.githubusercontent.com/35903451/142418379-291d5417-a526-4e03-8973-41a30885aa8b.png)
 
 - **Aceito os termos**(Checkbox):
      - Validação de envio de formulário somente se estive assinalado;
+     
      ![Aceite os termos](https://user-images.githubusercontent.com/35903451/142418432-bb932ec2-6f05-41ee-b3cb-1db72f005f1a.png)
 
 - **Submit/Cancelar**:
      - Só envia o formulario se todos campos obrigatorios estiverem preenchidos;
      - Cancela o preenchimento apagando todos os itens dos campos;
+     
      ![Aceite os termos valido e Sbmit](https://user-images.githubusercontent.com/35903451/142418920-6b754c37-44a8-459e-a917-19ef1cd5b660.png)
            
      
