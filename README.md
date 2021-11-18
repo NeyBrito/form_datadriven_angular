@@ -53,7 +53,7 @@ Precisa fazer a instalação das bibliotecas bootstrap, materialize, lodash, jqu
 
 - **Validação campo nome** (Obrigatoriedade);
 
-<img src="file:///C:\Users\ney.brito\Pictures\Nome.png" alt="Nome" style="zoom: 80%;" />
+![Nome](https://user-images.githubusercontent.com/35903451/142417453-a85f4273-be16-41e9-a067-c455acc500b2.png)
 
 ![Nome Valido](file:///C:\Users\ney.brito\Pictures\Nome%20Valido.png)
 
