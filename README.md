@@ -55,14 +55,14 @@ Precisa fazer a instalação das bibliotecas bootstrap, materialize, lodash, jqu
 
 ![Nome](https://user-images.githubusercontent.com/35903451/142417453-a85f4273-be16-41e9-a067-c455acc500b2.png)
 
-![Nome Valido](file:///C:\Users\ney.brito\Pictures\Nome%20Valido.png)
+![Nome Valido](https://user-images.githubusercontent.com/35903451/142417829-6fea1fc5-8861-4e96-8f45-9d4a7be95d7d.png)
 
 - **Validação campo E-mail**: 
     - verificação de e-mail; 
     - válido campo obrigatório;
     - confirmação de e-mail; 
-    ![email](file:///C:\Users\ney.brito\Pictures\Email.png)
-    ![email validado](file:///C:\Users\ney.brito\Pictures\Email%20Valido.png)
+    ![Email](https://user-images.githubusercontent.com/35903451/142417970-18a0caef-571a-4485-9a29-a3c6a7e188a8.png)
+   ![Email Valido](https://user-images.githubusercontent.com/35903451/142418010-9156176f-a3d2-4f26-a7a6-56a0df809417.png)
     
 - **Cep**:   
   - validação campo obrigatório 
@@ -72,28 +72,31 @@ Precisa fazer a instalação das bibliotecas bootstrap, materialize, lodash, jqu
      - Bairro;
      - Cidade (Select - Mostra somente as cidades do estado carregado);	
      - Estado (Select);
-     ![Endereço invalido](file:///C:\Users\ney.brito\Pictures\Endereço.png)
-     ![cepvalido](file:///C:\Users\ney.brito\Pictures\CepValido.png)
+     ![Endereço](https://user-images.githubusercontent.com/35903451/142418058-4b90483d-92bd-43ca-a4fa-25021f3bbc67.png)
+     ![CepValido](https://user-images.githubusercontent.com/35903451/142418099-14c4c42a-4576-49c2-ab69-9b740866d882.png)
   
 - **Cargo**(Select);
-![cargo](file:///C:\Users\ney.brito\Pictures\Cargo.png)
+![Cargo](https://user-images.githubusercontent.com/35903451/142418142-a61d9906-c67a-40e1-a334-00ec16731f72.png)
 
 - **Tecnologias**;
-![tecnologias](file:///C:\Users\ney.brito\Pictures\Tecnologias.png)
+![Tecnologias](https://user-images.githubusercontent.com/35903451/142418214-e921aebf-8752-4c91-a6c5-935e2bdaa4ad.png)
 
 - **Newsletter**(RadioButton);
-![news](file:///C:\Users\ney.brito\Pictures\Newsletter.png)
+![Newsletter](https://user-images.githubusercontent.com/35903451/142418262-ee200e18-8e81-459e-a05b-7e3f7397c526.png)
 
 - **Frameworks**(CheckBox);
-![Frame](file:///C:\Users\ney.brito\Pictures\Frameworks.png)
+![Frameworks](https://user-images.githubusercontent.com/35903451/142418379-291d5417-a526-4e03-8973-41a30885aa8b.png)
 
-- **Aceito os termos**(Checkbox:
+- **Aceito os termos**(Checkbox):
      - Validação de envio de formulário somente se estive assinalado;
-     ![aceite](file:///C:\Users\ney.brito\Pictures\Aceite%20os%20termos.png)
-     ![sbmit](file:///C:\Users\ney.brito\Pictures\Aceite%20os%20termos%20valido%20e%20Sbmit.png)
-     
+     ![Aceite os termos](https://user-images.githubusercontent.com/35903451/142418432-bb932ec2-6f05-41ee-b3cb-1db72f005f1a.png)
+
+- **Submit/Cancelar**:
+     - Só envia o formulario se todos campos obrigatorios estiverem preenchidos;
+     - Cancela o preenchimento apagando todos os itens dos campos;
+     ![Aceite os termos valido e Sbmit](https://user-images.githubusercontent.com/35903451/142418920-6b754c37-44a8-459e-a917-19ef1cd5b660.png)
+           
      
 ## Detalhes do Form (_Corpo da Requisição_)
 
-![corpo](file:///C:\Users\ney.brito\Pictures\Detalhes.png)
-
+![Detalhes](https://user-images.githubusercontent.com/35903451/142418965-b01ab241-a2f4-4cde-b122-08dba43adc31.png)
