@@ -1,23 +1,23 @@
 # Curso Angular ![Angular](https://cdn-images-1.medium.com/max/45/1*nbJ41jD1-r2Oe6FsLjKaOg@2x.png)
 
 
-### _Formulários (Reativos data-driven)_
+## _Formulários (Reativos data-driven)_
 
 ----------
 
-#### Servidor de desenvolvimento
+### Servidor de desenvolvimento
 
 Executando `ng serve` para um servidor de desenvolvimento.
 
 Navegue para `http://localhost:4200/`. O aplicativo será recarregado automaticamente se você alterar qualquer um dos arquivos de origem.
 
-#### Para rodar o projeto
+### Para rodar o projeto
 
 Foi utilizado o Angular CLI para estruturar e build.
 
 Precisa fazer a instalação das bibliotecas bootstrap, materialize, lodash, jquery.
 
-#### Conteúdo Abordado 📃
+### Conteúdo Abordado 📃
 
 -   Formulários reativos (data driven) Introdução
 -   Formulários reativos: Configuração (Módulo e Componente)
